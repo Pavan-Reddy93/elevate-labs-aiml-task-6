@@ -44,16 +44,8 @@ Implement the **KNN algorithm** for classification problems and understand the c
 * **Decision Boundary Plot:** Clear separation of species in 2D space.
 
 
+## Author 
 
-##  How to Run
-
-```bash
-pip install pandas numpy matplotlib scikit-learn
-jupyter notebook Task_6.ipynb.
-
-
-
-##  Author
 
 **Kasara Pavan Sai Reddy**
 B.Tech – Artificial Intelligence & Machine Learning
