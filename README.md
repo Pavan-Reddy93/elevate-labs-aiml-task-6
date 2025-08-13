@@ -49,7 +49,9 @@ Implement the **KNN algorithm** for classification problems and understand the c
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
-jupyter notebook Task_6.ipynb
+jupyter notebook Task_6.ipynb.
+
+
 
 ##  Author
 
